@@ -1,0 +1,156 @@
+{
+  "provinsi": [
+    {
+      "nama": "Jawa Barat",
+      "kabupaten": [
+        {
+          "nama": "Kabupaten Bandung",
+          "kecamatan": [
+            {
+              "nama": "Andir",
+              "kode_pos": "40181",
+              "desa": [
+                {
+                  "nama": "Andir",
+                  "kode_pos": "40181"
+                },
+                {
+                  "nama": "Antapani",
+                  "kode_pos": "40291"
+                },
+                {
+                  "nama": "Arcamanik",
+                  "kode_pos": "40293"
+                },
+                {
+                  "nama": "Astanaanyar",
+                  "kode_pos": "40241"
+                }
+              ]
+            },
+            {
+              "nama": "Antapani",
+              "kode_pos": "40291",
+              "desa": [
+                {
+                  "nama": "Antapani Kidul",
+                  "kode_pos": "40291"
+                },
+                {
+                  "nama": "Antapani Kulon",
+                  "kode_pos": "40291"
+                },
+                {
+                  "nama": "Antapani Tengah",
+                  "kode_pos": "40291"
+                },
+                {
+                  "nama": "Antapani Wetan",
+                  "kode_pos": "40291"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nama": "Kabupaten Bandung Barat",
+          "kecamatan": [
+            {
+              "nama": "Batujajar",
+              "kode_pos": "40561",
+              "desa": [
+                {
+                  "nama": "Batujajar Barat",
+                  "kode_pos": "40561"
+                },
+                {
+                  "nama": "Batujajar Timur",
+                  "kode_pos": "40561"
+                },
+                {
+                  "nama": "Cikalong",
+                  "kode_pos": "40561"
+                },
+                {
+                  "nama": "Cihanyir",
+                  "kode_pos": "40561"
+                }
+              ]
+            },
+            {
+              "nama": "Cihampelas",
+              "kode_pos": "40562",
+              "desa": [
+                {
+                  "nama": "Cihampelas",
+                  "kode_pos": "40562"
+                },
+                {
+                  "nama": "Cipatat",
+                  "kode_pos": "40562"
+                },
+                {
+                  "nama": "Mandalawangi",
+                  "kode_pos": "40562"
+                },
+                {
+                  "nama": "Pacet",
+                  "kode_pos": "40562"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nama": "Kota Bandung",
+          "kecamatan": [
+            {
+              "nama": "Bandung Kidul",
+              "kode_pos": "40254",
+              "desa": [
+                {
+                  "nama": "Cijagra",
+                  "kode_pos": "40254"
+                },
+                {
+                  "nama": "Cikutra",
+                  "kode_pos": "40254"
+                },
+                {
+                  "nama": "Dunguscariang",
+                  "kode_pos": "40254"
+                },
+                {
+                  "nama": "Neglasari",
+                  "kode_pos": "40254"
+                }
+              ]
+            },
+            {
+              "nama": "Bandung Kulon",
+              "kode_pos": "40211",
+              "desa": [
+                {
+                  "nama": "Babakan Sari",
+                  "kode_pos": "40211"
+                },
+                {
+                  "nama": "Balong Gede",
+                  "kode_pos": "40211"
+                },
+                {
+                  "nama": "Cijagra",
+                  "kode_pos": "40211"
+                },
+                {
+                  "nama": "Nyengseret",
+                  "kode_pos": "40211"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

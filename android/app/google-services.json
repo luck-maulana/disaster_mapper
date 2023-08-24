@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678415977673",
+    "project_id": "disaster-mapper",
+    "storage_bucket": "disaster-mapper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678415977673:android:1fee0cd99062d17c889118",
+        "android_client_info": {
+          "package_name": "com.disastermapper.disaster_mapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678415977673-8mq0tv82moi3dfl10n6dnj3pe5pn5het.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGi5kvCak55NidJTb81lCaYGxD5IY0LMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678415977673-8mq0tv82moi3dfl10n6dnj3pe5pn5het.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
